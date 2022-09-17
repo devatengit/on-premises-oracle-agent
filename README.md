@@ -7,7 +7,7 @@ To run the On-Premise Oracle Agent Docker Compose File locally, you must have Gi
 1. Firstly Clone the Docker Compose file from Github using -
 
 ```
-https://github.com/devatengit/on-premises-oracle-agent.git
+git clone https://github.com/devatengit/on-premises-oracle-agent.git
 ``` 
 ## Note:
 
